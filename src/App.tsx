@@ -62,7 +62,7 @@ function App() {
   const pokemons = useSelector((state: any) => state.pokemons);
 
   useEffect(() => {
-    fetch('http://localhost:3000/todo-app/pokemone.json')
+    fetch('/todo-app/pokemone.json')
       .then((resp) => resp.json())
       .then((data: Pokemon[]) =>
         dispatch({

@@ -1,3 +1,8 @@
+# Demo
+
+
+Open [DEMO](https://furyftw.github.io/todo-app/) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
